@@ -130,5 +130,4 @@ Para reproduzir o ambiente limpo e validar a entrega:
 | **Sprint 1** (`01_sprint1_ddl.sql`) | Modelagem 3FN, criação das 10 tabelas, PKs, FKs, `UNIQUE`, `DEFAULT` e auto-relacionamento de supervisão. | **30 pts** |
 | **Sprint 2** (`02_sprint2_dml_dql.sql`) | Carga de dados íntegra na ordem hierárquica (10 pts) + Precisão das 10 demandas gerenciais (25 pts). | **35 pts** |
 | **Sprint 3** (`03` e `04`) | Stored Procedure (8 pts), Function (5 pts), Triggers de Estoque (10 pts), Perfis DCL (6 pts) e Backup/Restore completo (6 pts). | **35 pts** |
-| **TOTAL** | **Nota Mínima para Homologação Plena: 70 pontos** | **100 pts** |#   t e c h m a r t - s q l  
- 
+| **TOTAL** | **Nota Mínima para Homologação Plena: 70 pontos** | **100 pts** |#
